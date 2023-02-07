@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanKillen
-- 👀 I’m interested in Python, C and Java
+- 👀 I’m interested in Python, C, and Java
 - 🌱 I’m currently studying Professional Software Development at University of Ulster
 - 💞️ I’m looking to collaborate on anything at all!
 - 📫 How to reach me: daniel.j.killen@hotmail.co.uk
