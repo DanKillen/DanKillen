@@ -1,2 +1,3 @@
 - Hi, I’m @DanKillen
-- I’m currently studying Professional Software Development at University of Ulster
+- Msc. Professional Software Development Graduate
+- Software Engineer
