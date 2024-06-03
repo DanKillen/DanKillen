@@ -1,3 +1,3 @@
 - Hi, I’m @DanKillen
-- Msc. Professional Software Development Graduate
+- MSc. Professional Software Development Graduate
 - Software Engineer
