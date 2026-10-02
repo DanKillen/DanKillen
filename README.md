@@ -4,4 +4,6 @@ I work mainly across Java, Angular/TypeScript, SQL and Oracle-backed enterprise 
 
 I'm especially interested in full-stack engineering, clean data models, backend design, and building useful software for real operational workflows.
 
+I’m comfortable working with AI-assisted development tools as part of the software delivery process, particularly for exploring implementation approaches, debugging, test coverage, documentation, and understanding unfamiliar codebases.
+
 Most of my current work is in private commercial repositories, so this GitHub contains selected learning projects and public practice work.
