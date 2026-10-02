@@ -1,4 +1,4 @@
-Hi, I'm Daniel — a software engineer based in Derry, Ireland.
+Hi, I'm Daniel. A software engineer based in Derry, Ireland.
 
 I work mainly across Java, Angular/TypeScript and MySQL in enterprise software. My current commercial work involves internal business applications, quote-management tooling, data modelling, API design, testing, and support across complex existing systems.
 
